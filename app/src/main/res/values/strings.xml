@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Menu, Buttons and Titles -->
+    <string name="app_name">Crossing The Pennines</string>
+    <string name="splash">Splash Screen image here</string>
+    <string name="action_about">About</string>
+    <string name="title_activity_maps">Crossing the Pennines</string>
+    <string name="btnFacebook">CTP Facebook</string>
+    <string name="btnTwitter">CTP Twitter</string>
+    <string name="btnWebsite">CTP Website</string>
+    <string name="change_map_type">Change Map Type</string>
+    <string name="normal">Normal</string>
+    <string name="hybrid">Hybrid</string>
+    <string name="terrain">Terrain</string>
+    <string name="satellite">Satellite</string>
+    <string name="showMyLocation">Show My Location</string>
+    <string name="viewRouteToggles">Change Displayed Routes</string>
+    <string name="road">Road</string>
+    <string name="crowFlies">Direct</string>
+    <string name="title_activity_info">Info</string>
+    <string name="about">A Hudsoft project for the Milestone Society.</string>
+    <string name="title_activity_about">About</string>
+
+    <!-- Marker Titles, using m#t naming convention, markerNUMBERtitle -->
+    <string name="m1t">Roman Milestone</string>
+    <string name="m2t">Weavers Cottages</string>
+    <string name="m3t">Slaithwaite Reservoir</string>
+    <string name="m4t">Millpond</string>
+    <string name="m5t">Privies</string>
+    <string name="m6t">Roman Ford in t\'Merrydale Stream</string>
+    <string name="m7t">Merrydale Clough</string>
+    <string name="m8t">Merrydale Fold Steps</string>
+    <string name="m9t">Tyas Lane</string>
+    <string name="m10t">Stones</string>
+    <string name="m11t">Hoofprints</string>
+    <string name="m12t">Slaithwaite Hall</string>
+    <string name="m13t">Packhorse Track Entrance</string>
+    <string name="m14t">Sparth Reservoir</string>
+    <string name="m15t">Canal Milestone</string>
+    <string name="m16t">Marsden mechanics and Wainwrights\' shop</string>
+    <string name="m17t">Towngate, the stocks and Enoch Taylor\'s tomb</string>
+    <string name="m18t">National Trust Exhibition and Marsden Rail Station: Standedge Tunnel End</string>
+    <string name="m19t">Mill Dam</string>
+    <string name="m20t">Turning Circle</string>
+    <string name="m21t">Crossing the River Colne</string>
+    <string name="m22t">The Olive Branch Inn</string>
+    <string name="m23t">1890s Milestone by Brayshaw and Booth</string>
+    <string name="m24t">Footpath 127</string>
+    <string name="m25t">Badger Gate, the Pedlar\'s Way</string>
+    <string name="m26t">Blind Jack\'s\' Milestone</string>
+    <string name="m27t">Footpath 128</string>
+    <string name="m28t">School Lane and Holme Mill</string>
+    <string name="m29t">Guillotine Lock at Slaithwaite</string>
+    <string name="m30t">Canal Milestone at Slaithwaite</string>
+    <string name="m31t">The tale of the Moonrakers</string>
+    <string name="m32t">Over the bridge</string>
+
+    <!-- MarkerDescriptions, using m#d naming convention, markerNUMBERdescription -->
+    <string name="m1d">From the Old Bank car-park, behind the 1842 Free School, follow the path from the north-west corner (away from the canal), to the private parking behind the Elizabethan Manor House. On the lawn, you will find a large cylindrical stone, reputedly a milestone from the Roman road from Chester to York which passed through the valley. In the far left hand corner of the garden is the tiny lock-up or jail.</string>
+    <string name="m2d">Turn back up the cobbled drive to the road, Nabbs Lane, and turn left towards the 1840s railway viaduct, passing the \'Silent Woman\', The Skelthwaite Arms in the TV series \'Where the Heart Is\' and noting the weavers\' cottages on the right, with narrow mullion windows and a take in door.</string>
+    <string name="m3d">Continue up Holme Lane under the viaduct and turn right along the side of Slaithwaite reservoir, one of ten built in the 1790s to supply the Huddersfield Narrow Canal. At the end of the walkway, turn left along the reservoir and continue straight ahead on the path sloping up through the woods.</string>
+    <string name="m4d">You may wish to detour briefly (50m) to the left when you reach a mill pond, to see the waterfall that bypasses it. The textile mill built in 1790 was demolished in 1977.</string>
+    <string name="m5d">Returning to the path, continue upwards to Clough House Lane; as you pass some cottages on your right, note their privies and coal houses on your left.</string>
+    <string name="m6d">Follow the lane, bearing leftwards downhill to where the lane makes a sharp U-turn; look left over the bridge to the stream. Here was a Roman ford, part of the Roman road to York.</string>
+    <string name="m7d">Our walk continues through Merrydale: go through a gap on your right at the bridge and follow the footpath along the stream up this pretty clough, listening to the different sounds of the water as it passes over various types of stream bed. After about half a mile, you will reach a wall, a T-jumctionl the White Rose Forest walk to the left, an easier route to Cop Hill, but our walk turns right. Look upwards on your right to see the remains of an earlier mill dam breached by a violent storm.</string>
+    <string name="m8d">Climb the path around Merrydale Fold. This was the home of a flamboyant Victorian herbalist called Rushard Horsfall, nicknamed Merrydale Dick, who delighted in annoying the medical profession putting the letters \'MD\' after his signature. Pass the other millpond on your left, climb the narrow stone steps and follow the fence and stream, turning right ont the tarmac drive.</string>
+    <string name="m9d">You will reach Tyas Lane which was the pack-horse route from Halifax to Oldham; turn left down this lane, taking care because the setts can be slippery when wet.</string>
+    <string name="m10d">Crossing the stream, over a double bridge, you will begin to climb the old track, with its causeway stones, some of considerable size. This packhorse track (Scout Lane) has been used since the Middle Ages.</string>
+    <string name="m11d">As you follow the track uphill, you may imagine hearing the bells of the packhorses. There is little room for passing if two packhorse trains, perhaps laden with panniers of wool or salt were to meet. \n Eventually you will reach Marsden Lane; follow this upwards to the Rose and Crown, at the summit of Cop Hill. http://www.penninedining.com/#!roseandcrownhnhome/cjg9 The views from here are extensive and rewarding after the fairly arduous climb. The walk continues down Marsden Lane, with views across the Colne Valley opening up. If you wish to avoid a stretch of tarmac, you can detour down Cop Hill Lane, a track to the right and turn left down Deep Gate to rejoin Marsden Lane lower down.</string>
+    <string name="m12d">Follow the road downhill for about half a mile, passwing Slaithwaite Hall on its promontory. The manorial home of the Tyas family, it had an unrivalled view of the trade routes passing through the valley.</string>
+    <string name="m13d">The original packhorse track bears right at the U-bend where Marsden Lane becomes Crow Trees Road. The track is steep but passable in dry weather and leads under the railway bridge on Kettle Lane, and turn immediately right into Park Gate Road.</string>
+    <string name="m14d">Follow this (c 250m) to the footpath on the left leading to Sandhills Cottages and Sparth Reservoir. Pig Tail Bridge is a pleasant picnic stop.</string>
+    <string name="m15d">To extend your walk to Marsden, continue along the west towpath; you will pass a canal milestone.</string>
+    <string name="m16d">Explore Marsden! There\'s the Marsden Mechanics Institute and Tourist Information, Riverside Tap Brewery, other pubs cafes and ice-cream shops, as well as Auntie Wainright\'s Shop (Last of the Summer Wine)</string>
+    <string name="m17d">On Towngate are the stocks and the tomb of Enoch Taylor the ironfounder.</string>
+    <string name="m18d">The Marsden Moor National Trust Exhibition is between the Railway Station and the Old Goods Yard car-park. The towpath to Standedge Tunnel End joins the Boat Lane and Standedge Trail.</string>
+    <string name="m19d">To return to Slaithwaite, the route continues east along the canal towpath, in front of the cottages passing an old mill with its dam on your right hand side. You can climb the steps just before the mill to view the dam.</string>
+    <string name="m20d">Continue along the towpath as far as the turning circle for the barges; just before the Dartmouth Estate worker’s cottage and lock no. 31E, take the footpath on your right signed to the Olive Branch restaurant.</string>
+    <string name="m21d">Cross the field (often with cattle), keeping the tumbled wall on your left and cross the narrow bridge over the River Colne. Continue straight ahead, through a beech grove and cross the goit which served Lingards Mill dam.</string>
+    <string name="m22d">Climb a flight of worn stone steps and walk across the field following the path to the left of the Olive Branch restaurant, noticing a date stone ‘I H 1764 on the rear wall which came from the original inn. http://www.olivebranch.uk.com/ .A trade route between Liverpool and Hull passed this way; the inn’s name comes from a settlement with America made by Lord Lewisham, who owned the Dartmouth Estate which covers much of the area. After being Prime Minister during the Napoleonic wars, he was Home Secretary at the time of the Peterloo Massacre in 1819.</string>
+    <string name="m23d">Cross the Manchester Road, the third Wakefield to Austerlands Turnpike and turn right. By the bus-stop, you can see a milestone. 600 of this type were manufactured at Brayshaw and Booth’s foundry at Liversedge in 1893, for the West Riding County Council. It gives the distance to Huddersfield as 6 miles; its companions still exist in Marsden and at Slaitwaite; they are being given some TLC by members of The Milestone Society, with funding for paint from the Jo Barnes Fund. You can also see a toll-house, now a bike shop, on the Manchester Road at Linthwaite, at the junction with Bargate. </string>
+    <string name="m24d">Continue in the direction of Marsden to the end of the houses, Old Bank Bottom; turn left and follow Footpath 127 as it winds its way between stone walls steeply up to Meltham Road, the Chain Road (there was a chain instead of a toll bar) ; it emerges by Hill Farm.</string>
+    <string name="m25d">Turning left, you will notice a wide grassy strip beside the wall, leading past the front of the Badger Gate farmhouse.. Badger Gate means the ‘Pedlars Way’. This was the original highway; Blind Jack of Knaresborough built the First Turnpike, the Chain Road, higher up the hillside. Walk up the road passing the groups of cottages - the verge is very narrow.</string>
+    <string name="m26d">Continue eastwards along Meltham Road, passing Badger Gate Farm and two other groups of buildings, taking care on the narrow verge; just past Badger Gate Cottage, opposite a footpath sign, across the road tucked in the vegetation by the corner of a fence, you will find an original 18th Century milestone, showing the distances to Austerlands and Huddersfield. This belongs to either the first turnpike 1767 (Blind Jack’s) or the second turnpike of 1781. Turn back to the previous set of buildings; immediately before the row of cottages with orange doors, turn down footpath 127 to Manchester Road; this is a wide track past a horse trough that twists around a derelict farmhouse and through the garden of Spring Grove. Kirklees Streetscene Rangers are working to improve the access.</string>
+    <string name="m27d">Turn back to the previous set of buildings; immediately before the row of cottages with orange doors, turn down footpath 127 to Manchester Road this is a wide track pas a horse trough that twists around a derelict farmhouse and through the garden of Spring Grove. Kirklees Streetscene Rangers are working to improve the access.</string>
+    <string name="m28d">Cross the Manchester Road and walk down School Lane, noticing the datestone of Lingards Wood Bottom Sunday School. Follow the tarmac road round to the right, passing the 1864 millworkers\' Holme Villas on your right and then passing some industrial buildings on your left; the road turns left in front of Holme Mill. Continue forward over a bridge across the Colne and re-join the canal towpath, turning right towards Slaithwaite.</string>
+    <string name="m29d">Our walk continues along the towpath towards Slaithwaite, about 1.25 miles. The tranquil water reflects the wooded banks, while the Colne bustles along on your right. As you approach Slaithwaite, note the unusual Guillotine lock, used when there is insufficient space for a conventional one.</string>
+    <string name="m30d">Continue past Upper Mills; behind the railings, amongst the vegetation, you can spot a Canal Milestone, engraved ‘5 Miles’, the distance to Huddersfield Aspley Basin.</string>
+    <string name="m31d">The canal features in the \'Moonrakers\' folk tale. The canal barges could carry valuable items such as casks of spirits and the boatmen might be bribed to lose the odd cask overboard, to be dredged out under cover of darkness. One moonlit night, the Revenue Officers disturbed the locals, who then claimed they were “only trying to rake the moon out of the water” ! The floating tea-room no longer exists.</string>
+    <string name="m32d">Turn left over the hump-backed bridge by the lock, back to the car park. Slaithwaite has several pleasant cafes, pubs and the Vanilla Bean ice-cream parlour: http://totally-locally.co.uk/slaithwaite/hidden-gems/vanilla-bean/.</string>
+
+</resources>
